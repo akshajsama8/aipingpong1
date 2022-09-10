@@ -1,0 +1,11 @@
+.heading{
+    width: 100%;
+}
+
+.heading h3{
+    text-align: left;
+}
+
+.heading button{
+    float: right;
+}
